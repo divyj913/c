@@ -1,0 +1,2 @@
+sentinel value(also called a dummy,signal,flag value)is used to indicate the "end of the data entry".
+the user types in values until all the legitimate value are entered and when the sentienel value is entered the program exits.
